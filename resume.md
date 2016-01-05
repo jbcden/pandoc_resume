@@ -1,100 +1,118 @@
-Johnny Coder
+Jacob Chae
 ============
 
-----
+-------------------------                      ----------------------
+133 Academy CT. APT I                             jbcden@gmail.com
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
+Elyria, OH 44035                                  (303) 945-5245
+-------------------------                      ----------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2010-2015
+:   **Bachelor of Arts, Computer Science**; Oberlin College
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    **Bachelor of Music, Oboe Performance**; Oberlin Conservatory
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+6/2015-Present
+:   **Mobile Defense**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Developed and maintained API endpoints for the Pocketgeek application.
 
-* First item
+* Ruby on Rails
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* HTML and CSS
 
-**That Other Job You Had**
+* Javascript
 
-Also with a short description.
+* Sinatra
+
+* MySQL and PostgreSQL
+
+* NodeJS
+
+* Ansible
+
+9/2014-5/2015
+:   **Student System Administrator,  
+    Oberlin Center for Technologically Enhanced Teaching:**
+
+Helped maintain the existing servers and wrote software to help make their use
+more efficient and effective. Created new VMs to test new software and test new
+environments (different Unix based systems):
+
+* Bash scripting
+
+* Virtualization
+
+* Experience with Debian, Ubuntu, Arch Linux and FreeBSD
+
+* Ruby
+
+6/2014-Present
+:   **Web Programmer, Oberlin Conservatory Music Theory Exam**
+
+Rewrote the existing music theory exam for the Oberlin Conservatory that they
+give to incoming students. The job involved the following:
+
+* Ruby on Rails
+
+* Angular JS
+
+* HTML and CSS
+
+* MySQL
+
+8/2013-2/2015
+:   **Lead Developer, Project Muses**
+
+Helped a startup company launch their initial website. This involved the
+following:
+
+* Ruby on Rails
+
+* Javascript
+
+* HTML and CSS
+
+* MySQL
+
+2/2013-5/2015
+:   **Software Developer and ID Card Programmer,  
+    Oberlin College Office of Residential Education:**
+
+Developed software for the Residential Education Office. This involved writing
+programs to parse documents to get statistics on students, faculty and stagg id
+card usage, sometimes exposing this infor via web based applications.
+
+* Ruby
+
+* Sinatra
+
+* HTML and CSS
+
+* Bash scripting
+
+* Elixir
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Jslide
+:   Pairing with a friend to implement a simple javascript library to create
+embeddable slideshows for websites [here](https://github.com/clabinger/jslide)
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Ruby:** Created web applications with this as well as some basic scripts
+for simple automation tasks.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+    **Bash:** Have used this for automating many tasks such as performing a
+repetitive task on multiple machines.
+[link](https://github.com/jbcden/machine_install)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+Basic knowledge of **C**, **Java**, **Scheme**, **Elixir**, **Android** and
+**Ios**
