@@ -21,7 +21,7 @@ Experience
 6/2015-Present
 :   **Mobile Defense**
 
-Developed and maintained API endpoints for the Pocketgeek application.
+Developed and maintained API endpoints for the Pocket Geek application.
 
 * Ruby on Rails
 
@@ -101,6 +101,8 @@ card usage, sometimes exposing this infor via web based applications.
 
 Technical Experience
 --------------------
+Github Profile
+:   https://github.com/jbcden
 
 Jslide
 :   Pairing with a friend to implement a simple javascript library to create
