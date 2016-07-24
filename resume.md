@@ -19,7 +19,9 @@ Experience
 ----------
 
 6/2015-Present
-:   **Mobile Defense**
+:   **Mobile Defense/Assurant Inc.**
+
+> Mobile Defense was acquired by Assurant in May of 2016.
 
 Developed and maintained API endpoints for the Pocket Geek application.
 
@@ -101,7 +103,7 @@ card usage, sometimes exposing this infor via web based applications.
 
 Technical Experience
 --------------------
-Github Profile
+Github
 :   https://github.com/jbcden
 
 Jslide
