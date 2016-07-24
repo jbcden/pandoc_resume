@@ -119,4 +119,4 @@ repetitive task on multiple machines.
 [link](https://github.com/jbcden/machine_install)
 
 Basic knowledge of **C**, **Java**, **Scheme**, **Elixir**, **Android** and
-**Ios**
+**iOS**
