@@ -2,9 +2,9 @@ Jacob Chae
 ============
 
 -------------------------                      ----------------------
-133 Academy CT. APT I                             jbcden@gmail.com
+108 N. Pleasant St                               jbcden@gmail.com
 
-Elyria, OH 44035                                  (303) 945-5245
+Oberlin, OH 44074                                (303) 945-5245
 -------------------------                      ----------------------
 
 Education
@@ -15,108 +15,85 @@ Education
 
     **Bachelor of Music, Oboe Performance**; Oberlin Conservatory
 
+Summary
+-------
+
+I am a Rails developer with 4 years of experience, including experience with
+MySQL, Javascript, CSS and React.
+
+I actively advocate using Object Oriented Design principles to make code cleaner
+and more extensible while also drawing inspiration from functional languages
+like Elixir and Haskell. I also have experience working on performance improvements
+and especially enjoy working on improving slow database queries.
+
+Most of my side projects are small kata exercises in various languages. I typically
+use exercism.io or go over Advent of Code exercises to explore new ways to
+approach problems.
+
 Experience
 ----------
 
 6/2015-Present
 :   **Mobile Defense/Assurant Inc.**
 
-> Mobile Defense was acquired by Assurant in May of 2016.
+> **Mobile Defense was acquired by Assurant in May of 2016.**
 
-Developed and maintained API endpoints for the Pocket Geek application.
+*Skills used:* Ruby on Rails, HTML, CSS, Javascript, React, Sinatra, MySQL, PostgreSQL and  Ansible
 
-* Ruby on Rails
+*Role overview:* Helped develop and maintain API endpoints for the Pocket Geek
+suite of applications. Built out new services to help integrate our applications
+with new clients.
 
-* HTML and CSS
+*Interesting challenges:* The database started with very few indexes or foreign key
+constraints. As the database grew, we had increasing problems with slow
+performance and inconsistent data. We researched and implemented best
+practices in database design to solve these problems.
 
-* Javascript
-
-* Sinatra
-
-* MySQL and PostgreSQL
-
-* NodeJS
-
-* Ansible
 
 9/2014-5/2015
 :   **Student System Administrator,  
     Oberlin Center for Technologically Enhanced Teaching:**
 
-Helped maintain the existing servers and wrote software to help make their use
-more efficient and effective. Created new VMs to test new software and test new
-environments (different Unix based systems):
+*Skills used:* Bash scripting, virtualization, Ruby
 
-* Bash scripting
+*Role overview:* Helped maintain existing servers. Wrote software to
+make their use more efficient and effective through the automation of common tasks
+with scripts. Created new VMs to test new software
+and environments (multiple Unix-based systems):
 
-* Virtualization
-
-* Experience with Debian, Ubuntu, Arch Linux and FreeBSD
-
-* Ruby
-
-6/2014-Present
-:   **Web Programmer, Oberlin Conservatory Music Theory Exam**
-
-Rewrote the existing music theory exam for the Oberlin Conservatory that they
-give to incoming students. The job involved the following:
-
-* Ruby on Rails
-
-* Angular JS
-
-* HTML and CSS
-
-* MySQL
-
-8/2013-2/2015
-:   **Lead Developer, Project Muses**
-
-Helped a startup company launch their initial website. This involved the
-following:
-
-* Ruby on Rails
-
-* Javascript
-
-* HTML and CSS
-
-* MySQL
+*Interesting challenges:* Created scripts to automate common processes on all
+Unix machines in a computer lab.
 
 2/2013-5/2015
 :   **Software Developer and ID Card Programmer,  
     Oberlin College Office of Residential Education:**
 
-Developed software for the Residential Education Office. This involved writing
-programs to parse documents to get statistics on students, faculty and stagg id
-card usage, sometimes exposing this infor via web based applications.
+*Skills used:* Ruby, Sinatra, HTML, CSS, Bash scripting, Elixir
 
-* Ruby
+*Role overview:* Developed software for the Residential Education Office.
+Wrote programs to parse documents to get statistics on student,
+faculty and staff ID card usage, integrating this information into web-based
+applications.
 
-* Sinatra
-
-* HTML and CSS
-
-* Bash scripting
-
-* Elixir
-
-Technical Experience
+Open Source
 --------------------
-Github
-:   https://github.com/jbcden
+**Github:** https://github.com/jbcden
 
-Jslide
-:   Pairing with a friend to implement a simple javascript library to create
-embeddable slideshows for websites [here](https://github.com/clabinger/jslide)
+\
+**Gem Checks:**
+Author of the [gem_checks](https://github.com/mobiledefense/gem_checks) gem.
+This gem scrapes [Gemnasium's](https://gemnasium.com/) website and parses a provided
+Gemfile.lock to determine if there are any vulnerable Ruby gems being used in your
+projects.
 
-Programming Languages
-:   **Ruby:** Created web applications with this as well as some basic scripts
-for simple automation tasks.
+\
+**Rustdoc:**
+Contributor to the ongoing rewrite of the Rustdoc tool led by Steve Klabnik.
 
-    **Bash:** Have used this for automating many tasks such as performing a
-repetitive task on multiple machines.
-[link](https://github.com/jbcden/machine_install)
+\
+**Other Projects:** I am the maintainer of the dexter PokeApi client written in Elixir. I took over
+maintaining from the original author in early 2017.
 
-Basic knowledge of **C**, **Java**, **Scheme**, **Elixir**, **Android** and
-**iOS**
+\
+Basic knowledge of **C**, **Java**, **Scheme**, **Elixir**, **Android**,
+**Swift**, **Haskell** and **Rust**
