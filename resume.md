@@ -2,9 +2,13 @@ Jacob Chae
 ============
 
 -------------------------                      ----------------------
-108 N. Pleasant St                               jbcden@gmail.com
+Big Vann States Yokohama Odori-Koen 301         jbcden@gmail.com 
 
-Oberlin, OH 44074                                (303) 945-5245
+2-22-13 Maganechō, Minami-ku
+
+Yokohama-shi, Kanagawa-ken                      +81 (080) 665-67060
+
+232-0021, Japan
 -------------------------                      ----------------------
 
 Education
