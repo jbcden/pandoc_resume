@@ -33,7 +33,25 @@ approach problems.
 Experience
 ----------
 
-6/2015-Present
+5/2018-Present
+:   **Reallyenglish**
+
+*Skills used:* Ruby on Rails, HTML, CSS, Javascript, PostgreSQL,
+Google Cloud Platform and Kubernetes
+
+*Role overview:* Helped lead development of the new version of the
+Reallyenglish management system. Worked with other teams in the company to
+coordinate development of new features as well as working to improve performance
+of key parts of the application.
+
+*Interesting challenges:* Certain parts of the application were initially
+implemented in an inefficient manner to allow for quicker prototyping. As
+we have begun onboarding new customers onto the new version of the application
+we have started to explore ways to improve the performance of this system by
+looking to best practices in Ruby, Rails and database design.
+
+
+6/2015-4/2018
 :   **Mobile Defense/Assurant Inc.**
 
 > **Mobile Defense was acquired by Assurant in May of 2016.**
