@@ -2,13 +2,13 @@ Jacob Chae
 ============
 
 -------------------------                      ----------------------
-Big Vann States Yokohama Odori-Koen 301         jbcden@gmail.com 
+Centlay Yokohama Kannai 805                     jbcden@gmail.com 
 
-2-22-13 Maganechō, Minami-ku
+1-7 Fukutomicho, Nishi-dori, Naka-ku
 
 Yokohama-shi, Kanagawa-ken                      +81 (080) 665-67060
 
-232-0021, Japan
+231-0042, Japan
 -------------------------                      ----------------------
 
 Education
@@ -22,8 +22,8 @@ Education
 Summary
 -------
 
-I am a Rails developer with 4 years of experience, including experience with
-MySQL, Javascript, CSS and React.
+I am a full stack developer with an emphasis in backend develop and
+5 years of experience.
 
 I actively advocate using Object Oriented Design principles to make code cleaner
 and more extensible while also drawing inspiration from functional languages
@@ -38,10 +38,10 @@ Experience
 ----------
 
 5/2018-Present
-:   **Reallyenglish**
+:   **Lead Backend Developer at Reallyenglish**
 
-*Skills used:* Ruby on Rails, HTML, CSS, Javascript, PostgreSQL,
-Google Cloud Platform and Kubernetes
+*Skills used:* Ruby on Rails, PostgreSQL, Google Cloud Platform and
+Kubernetes, HTML, CSS, Javascript
 
 *Role overview:* Helped lead development of the new version of the
 Reallyenglish management system. Worked with other teams in the company to
@@ -56,11 +56,11 @@ looking to best practices in Ruby, Rails and database design.
 
 
 6/2015-4/2018
-:   **Mobile Defense/Assurant Inc.**
+:   **Backend developer at Mobile Defense/Assurant Inc.**
 
 > **Mobile Defense was acquired by Assurant in May of 2016.**
 
-*Skills used:* Ruby on Rails, HTML, CSS, Javascript, React, Sinatra, MySQL, PostgreSQL and  Ansible
+*Skills used:* Ruby on Rails, Sinatra, MySQL, PostgreSQL and  Ansible, HTML, CSS, Javascript, React
 
 *Role overview:* Helped develop and maintain API endpoints for the Pocket Geek
 suite of applications. Built out new services to help integrate our applications
@@ -110,7 +110,7 @@ projects.
 
 \
 **Rustdoc:**
-Contributor to the ongoing rewrite of the Rustdoc tool led by Steve Klabnik.
+Former contributor to the ongoing rewrite of the Rustdoc tool led by Steve Klabnik.
 
 \
 **Other Projects:** I am the maintainer of the dexter PokeApi client written in Elixir. I took over
